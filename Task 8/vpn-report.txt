@@ -1,0 +1,82 @@
+#Task 8 (Cyber Security Internship)
+
+---
+
+## 🧠 Task Objective:
+Gain hands-on experience using a VPN to understand how it protects user privacy, encrypts data, and affects internet performance.
+
+---
+
+## 🔧 Tools Used:
+- **VPN Tool:** ProtonVPN (Free Tier)
+- **Website to Verify IP:** [https://whatismyipaddress.com](https://whatismyipaddress.com)
+- **Speed Test Tool:** [https://fast.com](https://fast.com)
+
+---
+
+## 📝 Step-by-Step Execution:
+
+### ✅ Step 1: Account Creation
+- Created ProtonVPN account with email `akashrameshpawar666@gmail.com`
+- Set a secure password.
+
+### ✅ Step 2: Installed ProtonVPN
+- Downloaded from official site.
+- Successfully installed on Windows system.
+
+### ✅ Step 3: Signed into ProtonVPN
+- Entered credentials to log in.
+
+### ✅ Step 4: Connected to Free Server
+- Connected to "Fastest Free Server" (Netherlands – NL-FREE#213).
+- VPN status: **Connected** (Protected)
+
+### ✅ Step 5: Verified New IP Address
+- Checked IP on `whatismyipaddress.com`.
+- New IP: `185.184.192.229` (Location: Netherlands)
+
+### ✅ Step 6: Browsing Test
+- Opened websites while VPN was ON – everything worked fine.
+
+### ✅ Step 7: Disconnected VPN
+- Disconnected to verify original IP.
+- Original IP: `202.72.225.2` (Location: Mumbai, India)
+
+---
+
+## 📌 Observations:
+
+| Aspect              | Without VPN                   | With VPN                        |
+|---------------------|-------------------------------|---------------------------------|
+| IP Address          | 202.72.225.2 (Mumbai, India)  | 185.184.192.229 (Netherlands)   |
+| ISP                 | Digi Win Infotainment         | WorldStream B.V. (VPN Server)   |
+| Location            | India                         | Netherlands                     |
+| Browsing Experience | Fast                          | Slightly slower (due to VPN)    |
+
+---
+
+## 🔐 VPN Features (ProtonVPN):
+- **Encryption:** AES-256
+- **Protocols:** OpenVPN (UDP)
+- **Privacy:** No-logs policy, DNS leak protection
+- **Jurisdiction:** Switzerland (Strong privacy laws)
+
+---
+
+## ✅ Benefits of VPN:
+- Hides IP address and location
+- Encrypts all internet traffic
+- Bypasses censorship or geo-blocked websites
+- Protects against surveillance and hackers
+
+## ⚠️ Limitations of VPN:
+- Free VPNs may have slower speeds
+- Not all websites support VPN traffic
+- Cannot ensure complete anonymity
+- Premium features are locked in free version
+
+---
+
+## 🏁 Conclusion:
+Successfully completed Task 8. Gained hands-on experience in using VPNs for privacy protection. Verified IP change, understood encryption, and saw real-world impact on browsing speed and security.
+
